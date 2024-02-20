@@ -1,2 +1,2 @@
-# demp
+# demo
 create calculator using jquery
