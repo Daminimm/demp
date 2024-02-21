@@ -1,3 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    text-align: center;
+}
+
+
 .btn1 {
-    color: brown;
+    color: black;
+    background-color: white;
+    border: 5 px;
+    font-size: small;
+    font-weight: bolder;
+}
+.btn{
+    color: black;
+    background-color: white;
+    border: 5 px;
+    font-size: small;
+    font-weight: bolder;
 }
